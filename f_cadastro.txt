@@ -1,1 +1,1 @@
-Os desenvolvedores fizeram uma tela de cadastro muito boa, com design responsivo que agrada o usuário final.
+Os desenvolvedores fizeram uma tela de cadastro muito boa, com design responsivo que agrada o usuário final. Nenhum bug foi reportado ainda.
